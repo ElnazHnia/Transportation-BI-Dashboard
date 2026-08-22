@@ -1,0 +1,7 @@
+CustomerID,CustomerName,CustomerSegment,Industry
+CUST-001,Apex Freight Logistics,Enterprise,Retail & E-commerce
+CUST-002,Global Cargo Solutions,Enterprise,Manufacturing
+CUST-003,Swift Freight UK,Mid-Market,Automotive
+CUST-004,Northern Haulage Co,SMB,Agriculture
+CUST-005,Metro Distribution,Mid-Market,Consumer Goods
+CUST-006,Vanguard Express,Enterprise,Pharmaceuticals

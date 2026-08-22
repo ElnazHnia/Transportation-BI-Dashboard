@@ -1,0 +1,8 @@
+LaneID,OriginLocationID,DestinationLocationID,LaneName,Distance_KM
+LANE-101,LOC-001,LOC-002,London to Birmingham,202
+LANE-102,LOC-003,LOC-004,Manchester to Liverpool,55
+LANE-103,LOC-001,LOC-005,London to York,338
+LANE-104,LOC-001,LOC-006,London to Reading,65
+LANE-105,LOC-004,LOC-003,Liverpool to Manchester,55
+LANE-106,LOC-004,LOC-001,Liverpool to London,350
+LANE-107,LOC-002,LOC-001,Birmingham to London,202

@@ -1,0 +1,5 @@
+ServiceID,ServiceName,ServiceTier,TransportMode
+SRV-01,Rail Freight Express,Priority,Rail
+SRV-02,Road Freight Standard,Standard,Road Truck
+SRV-03,Intermodal Priority,First Class,Rail/Road Hybrid
+SRV-04,Heavy Haulage,Economy,Heavy Truck

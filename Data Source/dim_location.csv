@@ -1,0 +1,7 @@
+LocationID,City,Region,HubType,Country
+LOC-001,London,Greater London,Central Distribution Center,UK
+LOC-002,Birmingham,West Midlands,Regional Freight Terminal,UK
+LOC-003,Manchester,North West,Regional Freight Terminal,UK
+LOC-004,Liverpool,North West,Port & Logistics Hub,UK
+LOC-005,York,Yorkshire,Transit Hub,UK
+LOC-006,Reading,South East,Distribution Hub,UK
