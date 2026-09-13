@@ -11,3 +11,11 @@ An interactive Power BI analytics dashboard built to analyse peak freight dispat
 * **`dim_location`**: Geolocation hierarchy (`Region`, `Country`, `City`, `LocationID`).
 * **`dim_services`**: Service levels and transport modes (`ServiceTier`, `TransportMode`).
 * **`dim_lane`**: Origin and destination route identifiers (`LaneName`, `OriginLocationID`, `DestinationLocationID`).
+
+
+## ⚙️ How to View & Run the Dashboard
+
+1. Clone or download this repository.
+2. Ensure you have **Power BI Desktop** installed (latest version recommended).
+3. Open `Dashboard/Transportation-BI-Dashboard.pbix`.
+4. If prompted to update data source paths, point the file parameters to the CSV files inside the `Data Source/` folder.
